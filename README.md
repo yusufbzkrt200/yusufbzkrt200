@@ -2,7 +2,6 @@
 - 👀 I’m interested in java, c# , html , css ,javascript and SQL
 - 🌱 I’m currently developing Websites
 - 💞️ I’m looking to collaborate on Mebasoft in now 
-- 📫 How to reach me @softwareruless on ınstagram
 
 <!---
 yusufbzkrt200/yusufbzkrt200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
