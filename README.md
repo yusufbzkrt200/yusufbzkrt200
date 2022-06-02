@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yusufbzkrt200
-- 👀 I’m interested in java, c# , html , css ,javascript and SQL
+- 👀 I’m interested in java, ASP.NET, c# , html , css ,javascript and SQL
 - 🌱 I’m currently developing Websites
 - 💞️ I’m looking to collaborate on Mebasoft in now 
 
