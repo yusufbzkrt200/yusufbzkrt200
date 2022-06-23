@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yusufbzkrt200
 - 👀 I’m interested in java, ASP.NET, c# , html , css ,javascript and SQL
 - 🌱 I’m currently developing Websites
-- 💞️ I’m looking to collaborate on Mebasoft in now 
 
 <!---
 yusufbzkrt200/yusufbzkrt200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
